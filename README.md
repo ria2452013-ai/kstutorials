@@ -188,10 +188,12 @@ footer {
         <h2>Contact 📞</h2>
         <p>📍 B605, Sahyadhri Tower, Upper Govind Nagar, Malad East</p>
         <p>📱 9967775714</p>
+         <p> <a href="https://wa.me/919967775714" target="_blank" class="whatsapp-btn">
+  💬 Chat on WhatsApp</a></p>
+
+ 
         <p>📧 kkshah202403@gmail.com</p>
-        <a href="https://wa.me/919967775714" target="_blank" class="whatsapp-btn">
-  💬 Chat on WhatsApp
-</a>
+       
     </div>
 </section>
 
