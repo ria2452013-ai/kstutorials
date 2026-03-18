@@ -189,14 +189,15 @@ footer {
         <p>📍 B605, Sahyadhri Tower, Upper Govind Nagar, Malad East</p>
         <p>📱 9967775714</p>
         <p>📧 kkshah202403@gmail.com</p>
+        <a href="https://wa.me/919967775714" target="_blank" class="whatsapp-btn">
+  💬 Chat on WhatsApp
+</a>
     </div>
 </section>
 
 <footer>
     <p>© 2026 Kruti's Tuition Classes</p>
 </footer>
-<a href="https://wa.me/919967775714" target="_blank" class="whatsapp-btn">
-  💬 Chat on WhatsApp
-</a>
+
 </body>
 </html>
