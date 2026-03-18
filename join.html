@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Join Now</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+
+<style>
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #f8e8ee, #e4f0f6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* CARD */
+.form-container {
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px);
+    padding: 40px;
+    border-radius: 25px;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+    text-align: center;
+    width: 300px;
+}
+
+/* TITLE */
+h1 {
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 14px;
+    color: #666;
+}
+
+/* INPUTS */
+input, select {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 12px;
+    border: none;
+    outline: none;
+    background: #f3f3f3;
+    font-size: 14px;
+}
+
+/* BUTTON */
+button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 20px;
+    background: #ffb6c1;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #ff8fa3;
+    transform: scale(1.05);
+}
+
+/* BACK LINK */
+a {
+    display: block;
+    margin-top: 15px;
+    text-decoration: none;
+    color: #888;
+    font-size: 14px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="form-container">
+
+    <h1>Join Now 💗</h1>
+    <p>Start your learning journey with us ✨</p>
+
+    <form action="https://formsubmit.co/kkshah202403@gmail.com" method="POST">
+
+        <input type="hidden" name="_subject" value="New Student Registration">
+
+        <input type="text" name="Name" placeholder="Your Name" required>
+
+        <input type="tel" name="Phone" placeholder="Your Phone Number" required>
+
+        <select name="Grade" required>
+            <option value="">Select Grade</option>
+            <option>Grade 6</option>
+            <option>Grade 7</option>
+            <option>Grade 8</option>
+            <option>Grade 9</option>
+            <option>Grade 10</option>
+        </select>
+<select name="Board" required>
+    <option value="">Select Board</option>
+    <option>ICSE</option>
+    <option>CBSE</option>
+    <option>IGCSE</option>
+</select>
+
+        <button type="submit">Submit ✨</button>
+
+    </form>
+
+
+
+</body>
+</html>
