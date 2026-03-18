@@ -195,6 +195,8 @@ footer {
 <footer>
     <p>© 2026 Kruti's Tuition Classes</p>
 </footer>
-
+<a href="https://wa.me/919967775714" target="_blank" class="whatsapp-btn">
+  💬 Chat on WhatsApp
+</a>
 </body>
 </html>
